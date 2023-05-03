@@ -2,4 +2,6 @@ Link insígnea: https://www.credly.com/badges/fef16e25-d13b-49b9-8a13-bfd5b20ba3
 
 Python Essentials 1
 Issued by Cisco
-Cisco, in collaboration with OpenEDG Python Institute, verifies the earner of this badge successfully completed the Python Essentials 1 course and achieved the student level credentials. Earners have knowledge of the concepts of computer programming, the syntax and semantics of the Python language as well as demonstrate the ability to accomplish coding tasks related to the essentials of programming in the Python language and resolve implementation challenges using the Python Standard Library.
+Cisco, in collaboration with OpenEDG Python Institute, verifies the earner of this badge successfully completed the Python Essentials 1 course and achieved the student level
+credentials. Earners have knowledge of the concepts of computer programming, the syntax and semantics of the Python language as well as demonstrate the ability to accomplish 
+coding tasks related to the essentials of programming in the Python language and resolve implementation challenges using the Python Standard Library.
