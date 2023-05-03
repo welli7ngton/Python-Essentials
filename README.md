@@ -1,5 +1,5 @@
 # Python Essentials
- Curso de Fundamentos de Python realizado pela Cisco Skills For All
+ Curso de Fundamentos de Python promovido pela Cisco Skills For All
 
 Introdução a Python e Programação
 
